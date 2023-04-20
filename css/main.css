@@ -1,0 +1,230 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.v2246_577 {
+  width: 100%;
+  height: 960px;
+  background: linear-gradient(rgba(0,151,184,1), rgba(0,55,68,1));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2246_578 {
+  width: 510px;
+  height: 145px;
+  background: url("../images/v2246_578.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 140px;
+  left: 196px;
+  overflow: hidden;
+}
+.v2246_579 {
+  width: 510px;
+  height: 145px;
+  background: url("../images/v2246_579.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2246_593 {
+  width: 518px;
+  height: 501px;
+  background: url("../images/v2246_593.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 212px;
+  left: 716px;
+  overflow: hidden;
+}
+.v2246_592 {
+  width: 518px;
+  height: 501px;
+  background: url("../images/v2246_592.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 150px;
+  overflow: hidden;
+}
+.v2246_580 {
+  width: 711px;
+  height: 37px;
+  background: url("../images/v2246_580.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 489px;
+  left: 96px;
+  overflow: hidden;
+}
+.v2246_581 {
+  width: 133px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v2246_582 {
+  width: 711px;
+  height: 2px;
+  background: url("../images/v2246_582.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2246_589 {
+  width: 711px;
+  height: 37px;
+  background: url("../images/v2246_589.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 397px;
+  left: 96px;
+  overflow: hidden;
+}
+.v2246_590 {
+  width: 149px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Roboto;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v2246_591 {
+  width: 711px;
+  height: 2px;
+  background: url("../images/v2246_591.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2246_583 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2246_583.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 606px;
+  left: 80px;
+  overflow: hidden;
+}
+.v2246_584 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2246_584.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2246_585 {
+  width: 270px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 5px;
+  left: 47px;
+  font-family: Rounded Mplus 1c Bold;
+  font-weight: Bold;
+  font-size: 29px;
+  opacity: 1;
+  text-align: left;
+}
+.v2265_510 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2265_510.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 606px;
+  left: 477px;
+  overflow: hidden;
+}
+.v2265_511 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2265_511.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2265_512 {
+  width: 190px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 112px;
+  font-family: Rounded Mplus 1c Bold;
+  font-weight: Bold;
+  font-size: 29px;
+  opacity: 1;
+  text-align: left;
+}
