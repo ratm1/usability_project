@@ -85,6 +85,7 @@ body {
   width: 45px;
   color: rgba(255,255,255,1);
   position: absolute;
+  cursor: pointer;
   top: 6px;
   left: 142px;
   font-family: Rounded Mplus 1c Bold;
