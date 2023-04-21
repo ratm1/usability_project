@@ -51,7 +51,7 @@ input[type="text"] {
   font-size: 16px;
 }
 
-input[type="submit"] {
+.submit-button {
   background-color:  rgba(240,100,56,1);
   color: white;
   padding: 10px 40px;
@@ -63,7 +63,7 @@ input[type="submit"] {
   margin-top: 40px;
 }
 
-input[type="submit"]:hover {
+.submit-button:hover {
   background-color: #45a049;
 }
 
