@@ -3,6 +3,7 @@
 }
 body {
   font-size: 14px;
+  margin: 0;
 }
 a {
   text-decoration: none;
@@ -67,7 +68,7 @@ input[type="submit"]:hover {
 }
 
 .v2350_405 {
-  width: 100%;
+  width: 1536px;
   height: 960px;
   background: linear-gradient(rgba(0,151,184,1), rgba(0,55,68,1));
   opacity: 1;
