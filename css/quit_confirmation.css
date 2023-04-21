@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  margin: 0;
+}
+.v2359_257 {
+  width: 1536px;
+  height: 960px;
+  background: linear-gradient(rgba(0,151,184,1), rgba(0,55,68,1));
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2359_268 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2359_268.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 603px;
+  left: 297px;
+  overflow: hidden;
+}
+.v2359_269 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2359_269.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2359_270 {
+  width: 68px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 8px;
+  left: 148px;
+  font-family: Rounded Mplus 1c Bold;
+  font-weight: Bold;
+  font-size: 29px;
+  opacity: 1;
+  text-align: left;
+}
+.v2359_271 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2359_271.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 10px;
+  opacity: 1;
+  position: absolute;
+  top: 603px;
+  left: 910px;
+  overflow: hidden;
+}
+.v2359_272 {
+  width: 330px;
+  height: 64px;
+  background: url("../images/v2359_272.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v2359_273 {
+  width: 45px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 6px;
+  left: 142px;
+  font-family: Rounded Mplus 1c Bold;
+  font-weight: Bold;
+  font-size: 29px;
+  opacity: 1;
+  text-align: left;
+}
+.v2359_274 {
+  width: 100%;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 381px;
+  left: 237px;
+  font-family: Rounded Mplus 1c Bold;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
